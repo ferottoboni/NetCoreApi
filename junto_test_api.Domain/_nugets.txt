@@ -1,0 +1,3 @@
+﻿
+https://www.nuget.org/packages/automapper/
+PM> Install-Package AutoMapper

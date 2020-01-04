@@ -1,0 +1,11 @@
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\obj\Debug\netcoreapp3.1\junto_test_api.Domain.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\obj\Debug\netcoreapp3.1\junto_test_api.Domain.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\obj\Debug\netcoreapp3.1\junto_test_api.Domain.AssemblyInfo.cs
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\bin\Debug\netcoreapp3.1\junto_test_api.Domain.deps.json
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\bin\Debug\netcoreapp3.1\junto_test_api.Domain.dll
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\bin\Debug\netcoreapp3.1\junto_test_api.Domain.pdb
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\bin\Debug\netcoreapp3.1\junto_test_api.Entity.dll
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\bin\Debug\netcoreapp3.1\junto_test_api.Entity.pdb
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\obj\Debug\netcoreapp3.1\junto_test_api.Domain.csproj.CopyComplete
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\obj\Debug\netcoreapp3.1\junto_test_api.Domain.dll
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Domain\obj\Debug\netcoreapp3.1\junto_test_api.Domain.pdb

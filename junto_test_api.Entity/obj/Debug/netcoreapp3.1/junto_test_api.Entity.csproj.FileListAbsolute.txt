@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\obj\Debug\netcoreapp3.1\junto_test_api.Entity.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\obj\Debug\netcoreapp3.1\junto_test_api.Entity.AssemblyInfo.cs
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\bin\Debug\netcoreapp3.1\junto_test_api.Entity.deps.json
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\bin\Debug\netcoreapp3.1\junto_test_api.Entity.runtimeconfig.json
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\bin\Debug\netcoreapp3.1\junto_test_api.Entity.runtimeconfig.dev.json
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\bin\Debug\netcoreapp3.1\junto_test_api.Entity.dll
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\bin\Debug\netcoreapp3.1\junto_test_api.Entity.pdb
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\obj\Debug\netcoreapp3.1\junto_test_api.Entity.dll
+C:\Users\ferna\source\repos\junto-test-api\junto_test_api.Entity\obj\Debug\netcoreapp3.1\junto_test_api.Entity.pdb
